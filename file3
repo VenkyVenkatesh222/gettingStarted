@@ -1,2 +1,10 @@
 hi this is file3 
 iam working in file3
+hi this is devloper 2 want to write some code
+public class add {
+
+public static void main(String[] args){
+int x=5;
+int y=10;
+System.out.println(x+y);
+}}

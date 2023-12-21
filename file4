@@ -3,5 +3,5 @@ public static void main(String[] args){
 String carNAme="ferrari";
 String colour="blue";
 String ownerName="venkatesh";
-:System.out.println(carName);
+System.out.println(carName);
 }}
