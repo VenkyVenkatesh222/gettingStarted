@@ -1,6 +1,7 @@
 public class Car{
 public static void main(String[] args){
 String carNAme="ferrari";
+//hi user requested the colour to be blue so changing the colour
 String colour="blue";
 String ownerName="venkatesh";
 System.out.println(carName);
